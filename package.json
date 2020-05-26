@@ -24,6 +24,7 @@
   },
   "scripts": {
     "start": "egg-scripts start --daemon --title=egg-server-youtu-face",
+    "now-build": "egg-scripts start --daemon --title=egg-server-youtu-face",
     "stop": "egg-scripts stop --title=egg-server-youtu-face",
     "dev": "egg-bin dev",
     "debug": "egg-bin debug",
